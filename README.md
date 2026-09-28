@@ -39,3 +39,7 @@ All 12 heuristics, each with its concrete evaluation criteria from the article:
 4. The top 3 priority fixes.
 
 Evaluation is limited to what is actually in front of you: heuristics are guidelines, not laws.
+
+## Credit
+
+Based on ["12 heuristics for content design"](https://uxplanet.org/12-heuristics-for-content-design-f6d7ec989cb5) by [Andrew Tipp](https://medium.com/@andrewtipp), published in UX Planet.

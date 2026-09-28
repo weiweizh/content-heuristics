@@ -124,3 +124,7 @@ List heuristics/criteria the input couldn't reveal (e.g. "Accurate: sign-off/rev
 The three changes with the biggest user impact, in order.
 
 Keep the tone direct and practical. Remind the user that heuristics are guidelines — any deviation should be a choice, not an accident.
+
+## Credit
+
+Framework from ["12 heuristics for content design"](https://uxplanet.org/12-heuristics-for-content-design-f6d7ec989cb5) by [Andrew Tipp](https://medium.com/@andrewtipp) (UX Planet).
